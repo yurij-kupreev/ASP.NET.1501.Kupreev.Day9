@@ -1,0 +1,14 @@
+D:\epam courses\ASP.NET.1501.Kupreev.Day9\Task1UI\bin\Debug\Task1UI.exe.config
+D:\epam courses\ASP.NET.1501.Kupreev.Day9\Task1UI\bin\Debug\Task1UI.exe
+D:\epam courses\ASP.NET.1501.Kupreev.Day9\Task1UI\bin\Debug\Task1UI.pdb
+D:\epam courses\ASP.NET.1501.Kupreev.Day9\Task1UI\obj\Debug\Task1UI.exe
+D:\epam courses\ASP.NET.1501.Kupreev.Day9\Task1UI\obj\Debug\Task1UI.pdb
+D:\epam courses\ASP.NET.1501.Kupreev.Day9\Task1UI\bin\Debug\Task1BinaryTree.dll
+D:\epam courses\ASP.NET.1501.Kupreev.Day9\Task1UI\bin\Debug\Task3_BookService.dll
+D:\epam courses\ASP.NET.1501.Kupreev.Day9\Task1UI\bin\Debug\NLog.dll
+D:\epam courses\ASP.NET.1501.Kupreev.Day9\Task1UI\bin\Debug\Task1BinaryTree.pdb
+D:\epam courses\ASP.NET.1501.Kupreev.Day9\Task1UI\bin\Debug\Task3_BookService.pdb
+D:\epam courses\ASP.NET.1501.Kupreev.Day9\Task1UI\bin\Debug\NLog.xml
+D:\epam courses\ASP.NET.1501.Kupreev.Day9\Task1UI\obj\Debug\Task1UI.csprojResolveAssemblyReference.cache
+D:\epam courses\ASP.NET.1501.Kupreev.Day9\Task1UI\bin\Debug\ComparatorsForBinaryTreeTask.dll
+D:\epam courses\ASP.NET.1501.Kupreev.Day9\Task1UI\bin\Debug\ComparatorsForBinaryTreeTask.pdb

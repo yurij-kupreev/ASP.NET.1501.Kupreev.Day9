@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1BinaryTree", "Task1BinaryTree\Task1BinaryTree.csproj", "{0FDC3EC6-341E-4DC5-92F1-B974358B486D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1UI", "Task1UI\Task1UI.csproj", "{07D28679-5F22-4A39-B511-90D2625B9887}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3_BookService", "Task3_BookService\Task3_BookService.csproj", "{C59C016C-91B3-4BC4-9048-59C84B8B9EA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComparatorsForBinaryTreeTask", "ComparatorsForBinaryTreeTask\ComparatorsForBinaryTreeTask.csproj", "{9A69E9ED-3F8B-440B-91EA-8FDA5BB23CA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FDC3EC6-341E-4DC5-92F1-B974358B486D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FDC3EC6-341E-4DC5-92F1-B974358B486D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FDC3EC6-341E-4DC5-92F1-B974358B486D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FDC3EC6-341E-4DC5-92F1-B974358B486D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07D28679-5F22-4A39-B511-90D2625B9887}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07D28679-5F22-4A39-B511-90D2625B9887}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07D28679-5F22-4A39-B511-90D2625B9887}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07D28679-5F22-4A39-B511-90D2625B9887}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C59C016C-91B3-4BC4-9048-59C84B8B9EA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C59C016C-91B3-4BC4-9048-59C84B8B9EA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C59C016C-91B3-4BC4-9048-59C84B8B9EA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C59C016C-91B3-4BC4-9048-59C84B8B9EA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A69E9ED-3F8B-440B-91EA-8FDA5BB23CA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A69E9ED-3F8B-440B-91EA-8FDA5BB23CA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A69E9ED-3F8B-440B-91EA-8FDA5BB23CA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A69E9ED-3F8B-440B-91EA-8FDA5BB23CA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

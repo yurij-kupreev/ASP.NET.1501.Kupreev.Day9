@@ -1,0 +1,5 @@
+D:\epam courses\ASP.NET.1501.Kupreev.Day9\Task1BinaryTree\bin\Debug\Task1BinaryTree.dll
+D:\epam courses\ASP.NET.1501.Kupreev.Day9\Task1BinaryTree\bin\Debug\Task1BinaryTree.pdb
+D:\epam courses\ASP.NET.1501.Kupreev.Day9\Task1BinaryTree\obj\Debug\Task1BinaryTree.csprojResolveAssemblyReference.cache
+D:\epam courses\ASP.NET.1501.Kupreev.Day9\Task1BinaryTree\obj\Debug\Task1BinaryTree.dll
+D:\epam courses\ASP.NET.1501.Kupreev.Day9\Task1BinaryTree\obj\Debug\Task1BinaryTree.pdb

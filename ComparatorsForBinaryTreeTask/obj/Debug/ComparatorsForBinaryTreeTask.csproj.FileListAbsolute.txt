@@ -1,0 +1,8 @@
+D:\epam courses\ASP.NET.1501.Kupreev.Day9\ComparatorsForBinaryTreeTask\bin\Debug\ComparatorsForBinaryTreeTask.dll
+D:\epam courses\ASP.NET.1501.Kupreev.Day9\ComparatorsForBinaryTreeTask\bin\Debug\ComparatorsForBinaryTreeTask.pdb
+D:\epam courses\ASP.NET.1501.Kupreev.Day9\ComparatorsForBinaryTreeTask\obj\Debug\ComparatorsForBinaryTreeTask.dll
+D:\epam courses\ASP.NET.1501.Kupreev.Day9\ComparatorsForBinaryTreeTask\obj\Debug\ComparatorsForBinaryTreeTask.pdb
+D:\epam courses\ASP.NET.1501.Kupreev.Day9\ComparatorsForBinaryTreeTask\bin\Debug\Task3_BookService.dll
+D:\epam courses\ASP.NET.1501.Kupreev.Day9\ComparatorsForBinaryTreeTask\bin\Debug\NLog.dll
+D:\epam courses\ASP.NET.1501.Kupreev.Day9\ComparatorsForBinaryTreeTask\bin\Debug\Task3_BookService.pdb
+D:\epam courses\ASP.NET.1501.Kupreev.Day9\ComparatorsForBinaryTreeTask\bin\Debug\NLog.xml
